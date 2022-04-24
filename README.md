@@ -4,7 +4,7 @@
 
 This is a custom template for Node.js written in TypeScript, which features REST API interface via Express.js
 
-## INSTALLATION
+## Installation
 ```bash
 # Installing dependencies
 $ yarn install
