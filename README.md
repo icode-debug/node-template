@@ -9,8 +9,14 @@ This is a custom template for Node.js written in TypeScript, which features REST
 # Installing dependencies
 $ yarn install
 
-# Starting the dev server
+# Starts the development server
 $ yarn run dev
+
+# Builds the app for production to the `build` folder.
+$ yarn build
+
+# Starts the production server.
+$ yarn run prod
 ```
 
 ## Folder Structure
